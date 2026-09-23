@@ -37,8 +37,6 @@ A personal AI work environment for understanding complex information, coordinati
 ![Verification](https://img.shields.io/badge/Verification-24292F?style=flat-square)
 ![Human Control](https://img.shields.io/badge/Human%20Control-24292F?style=flat-square)
 
-[View NEXUS →](https://github.com/ahmadkraiem/nexus-showcase)
-
 ## Core Stack
 
 ### Languages
