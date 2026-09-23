@@ -24,7 +24,7 @@ I design and build software and AI systems for complex workflows, combining agen
 
 ## Featured Project
 
-### NEXUS
+### [NEXUS](https://github.com/ahmadkraiem/nexus-showcase)
 
 **Personal AI Work Operating Environment**
 
@@ -36,6 +36,8 @@ A personal AI work environment for understanding complex information, coordinati
 ![Orchestration](https://img.shields.io/badge/Orchestration-24292F?style=flat-square)
 ![Verification](https://img.shields.io/badge/Verification-24292F?style=flat-square)
 ![Human Control](https://img.shields.io/badge/Human%20Control-24292F?style=flat-square)
+
+[View NEXUS →](https://github.com/ahmadkraiem/nexus-showcase)
 
 ## Core Stack
 
