@@ -4,7 +4,7 @@
 
 Building reliable AI systems, agentic workflows, and knowledge infrastructure.
 
-I build software and AI systems for complex workflows, combining agents, knowledge, memory, retrieval, orchestration, and evaluation.
+I design and build software and AI systems for complex workflows, combining agents, knowledge, memory, retrieval, orchestration, and evaluation.
 
 ---
 
@@ -23,7 +23,7 @@ I build software and AI systems for complex workflows, combining agents, knowled
 
 **Personal AI Work Operating Environment**
 
-A personal AI work environment for understanding information, coordinating intelligent workflows, and building reliable human-controlled AI systems.
+A personal AI work environment for understanding complex information, coordinating intelligent workflows, and building reliable human-controlled AI systems.
 
 `AI Systems` · `Agents` · `Knowledge` · `Orchestration` · `Verification` · `Human Control`
 
@@ -47,7 +47,7 @@ A personal AI work environment for understanding information, coordinating intel
 
 ## AI Systems
 
-`Agents` · `Orchestration` · `Retrieval` · `RAG` · `Memory` · `Knowledge Systems` · `Evaluation`
+`Agents` · `Orchestration` · `Retrieval` · `RAG` · `Memory` · `Knowledge & Context Systems` · `Evaluation`
 
 ---
 
